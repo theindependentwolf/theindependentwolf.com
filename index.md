@@ -1,6 +1,3 @@
-## The Independent Wolf
-
-
 ### What I can do for you
 
 - Build your website
