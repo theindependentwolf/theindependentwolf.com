@@ -27,6 +27,6 @@ Below are some of my main skills
 
 ### Contact me
 
-If you wish to hire, please contact me at the following address
+If you wish to hire me, please contact me at the following address
 
 - the.real.independent.wolf@gmail.com
