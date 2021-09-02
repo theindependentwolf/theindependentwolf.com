@@ -5,7 +5,7 @@
 - Automate your workflows and save you a bunch of time
 - Manage your Cloud Infrastructure (AWS)
 
-## Qualifications
+### Qualifications
 
 9+ years of industry experience in
 
