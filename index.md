@@ -1,5 +1,4 @@
 ### The Independent Wolf
-### The Independent Wolf
 
 - Build your website
 - Automate your workflows and save you a bunch of time
